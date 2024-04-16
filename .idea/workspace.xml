@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de715ced-7954-4500-9c6e-4cc9b16e99ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/justdoeat/justdoeat/Entities/ListeCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/justdoeat/justdoeat/Entities/Recette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/justdoeat/justdoeat/Repository/RestSpringBootRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/justdoeat/justdoeat/Service/RestSpringBootService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justdoeat/justdoeat/controller/RestSprintBootController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/justdoeat/justdoeat/controller/RestSprintBootController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Katia" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -29,7 +39,6 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="Use Maven wrapper" />
-        <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -47,7 +56,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/JustDoEat",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
