@@ -1,4 +1,4 @@
-package Entities;
+package com.justdoeat.justdoeat.Entities;
 
 public class Ingredient {
     private String nom;
