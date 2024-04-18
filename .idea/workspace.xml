@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a681406e-6ffc-406e-b414-fad00fa3d811" name="Changes" comment="JustDoEat starter">
-      <change afterPath="$PROJECT_DIR$/src/ListeCourse/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListeCourse/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListeCourse/ListeCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListeCourse/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListeCourse/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recette/Recette.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recette/RecetteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recette/RecetteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recette/RecetteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/ListeCourse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/PlanificationRepas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/Recette.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entities/Utilisateur.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/ConseilsCulinaires.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/GestionnaireAllergies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/GestionnaireRecettes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/PartageSocial.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a681406e-6ffc-406e-b414-fad00fa3d811" name="Changes" comment="JustDoEat starter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,19 +34,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Katia",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Katia&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/katia/Desktop/demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ListeCourse" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="justdoeat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
